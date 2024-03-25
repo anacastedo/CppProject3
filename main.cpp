@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
-#include <cctype>
 #include <vector>
-#include<bits/stdc++.h> 
 
 using namespace std;
 
