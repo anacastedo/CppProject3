@@ -1,2 +1,2 @@
-# Project3_C_Plus
+# C++ - Project3
  Loops and breaks
